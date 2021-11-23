@@ -16,4 +16,7 @@ include:
 
 layout: page
 title: "Computational Mathematics"
-permalink: /computational_math/
+permalink: 
+  - /100-Problems-for-Python/
+  - /100-Problems-for-Sage/
+  - /computational_math/
