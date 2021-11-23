@@ -1,4 +1,8 @@
+layout: page
+
 title: Heesung Shin
+permalink: /100-Problems-for-Python/
+permalink: /100-Problems-for-Sage/
 
 plugins:
   - jekyll-relative-links
@@ -14,7 +18,3 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-
-layout: page
-permalink: /100-Problems-for-Python/
-permalink: /100-Problems-for-Sage/
