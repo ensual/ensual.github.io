@@ -1,3 +1,8 @@
+# 100 Problems for Python, Computational Mathematics
+
+modified by Heesung Shin, Inha University <br>
+originated from [Jeju Coding Base Camp Code Festival](http://www.paullab.co.kr/codefestival.html): [Python 100 Problems](https://ridibooks.com/books/2773000025)
+
 ## Python 00
 
 다음 리스트에서 400, 500를 삭제하는 code를 입력하세요.
