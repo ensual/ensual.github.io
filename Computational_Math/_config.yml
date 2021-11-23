@@ -1,8 +1,0 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - 100-Problems-for-Python.md
-  - 100-Problems-for-Sage.md
