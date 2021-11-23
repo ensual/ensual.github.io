@@ -16,6 +16,5 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 layout: page
-title: "Computational Mathematics"
 permalink: /100-Problems-for-Python/
 permalink: /100-Problems-for-Sage/
