@@ -15,4 +15,5 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 layout: page
-permalink: /computational_math/100-Problems-for-Python/
+title: "Computational Mathematics"
+permalink: /computational_math/
