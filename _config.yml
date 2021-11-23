@@ -1,4 +1,5 @@
 title: Heesung Shin
+
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -16,7 +17,5 @@ include:
 
 layout: page
 title: "Computational Mathematics"
-permalink: 
-  - /100-Problems-for-Python/
-  - /100-Problems-for-Sage/
-  - /computational_math/
+permalink: /100-Problems-for-Python/
+permalink: /100-Problems-for-Sage/
