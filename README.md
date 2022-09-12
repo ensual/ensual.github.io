@@ -4,6 +4,7 @@ Inha University,
 Incheon, South Korea.
 
 ## Computational Mathematics
-- [Python-2.ipynb](https://nbviewer.org/github/ensual/ensual.github.io/blob/master/MTH1031/Python-2.ipynb)
+- [100 Problem for Python](https://nbviewer.org/url/ensual.github.io/MTH1031/100-Problems-for-Python.ipynb)
+- [100 Problem for SageMath](https://nbviewer.org/url/ensual.github.io/MTH1031/100-Problems-for-Sage.ipynb)
 ## Computation of the week, Inha University
 - [Winners](http://cow.inha.ac.kr/winner.php)
