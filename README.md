@@ -12,8 +12,8 @@ The following documents are taken from [Computational Mathematics with SageMath]
 - [Sage Tutorial 5](https://nbviewer.org/url/ensual.github.io/Sage%20Tutorial%205.ipynb)  
 
 ## Computational Mathematics
-- [100 Problem for Python](https://nbviewer.org/url/ensual.github.io/100-Problems-for-Python.ipynb)
-- [100 Problem for SageMath](https://nbviewer.org/url/ensual.github.io/100-Problems-for-Sage.ipynb)
+- [100 Problems for Python](https://nbviewer.org/url/ensual.github.io/100-Problems-for-Python.ipynb)
+- [100 Problems for SageMath](https://nbviewer.org/url/ensual.github.io/100-Problems-for-Sage.ipynb)
 
 ## Computation of the week, Inha University
 - [Winners](http://cow.inha.ac.kr/winner.php)
