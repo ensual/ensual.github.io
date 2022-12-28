@@ -15,5 +15,12 @@ The following documents are taken from [Computational Mathematics with SageMath]
 - [100 Problems for Python](https://nbviewer.org/url/ensual.github.io/100-Problems-for-Python.ipynb)
 - [100 Problems for SageMath](https://nbviewer.org/url/ensual.github.io/100-Problems-for-Sage.ipynb)
 
+## Useful Tools
+- [WolframAlpha](https://www.wolframalpha.com)
+- [Wolfram Cloud](https://www.wolframcloud.com) (Mathematica)
+- [GeoGebra](https://www.geogebra.org/classic)
+- [Google Colab](https://colab.research.google.com) (Python)
+- [CoCalc](https://cocalc.com) (SageMath)
+
 ## Computation of the week, Inha University
 - [Winners](http://cow.inha.ac.kr/winner.php)
