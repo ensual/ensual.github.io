@@ -3,6 +3,11 @@ Department of Mathematics,
 Inha University,
 Incheon, South Korea.
 
+## 2026 Gifted Education R&E Workshop (Oct 23, 2026)
+Network Data Analysis & Visualization — hands-on materials for the teacher training session at Daejeon Convention Center.
+- [data_analysis.ipynb](https://ensual.github.io/rne2026/data_analysis.ipynb) — Colab notebook (fill-in-the-blank)
+- [ca_grqc_dirty.csv](https://ensual.github.io/rne2026/ca_grqc_dirty.csv) — Practice dataset (ca-GrQc, 15,184 rows)
+
 ## [Sage Days 116](https://wiki.sagemath.org/days116)
 The following documents are taken from [Computational Mathematics with SageMath](https://www.sagemath.org/sagebook/english.html).
 - [Sage Tutorial 1](https://nbviewer.org/url/ensual.github.io/Sage%20Tutorial%201.ipynb)  
