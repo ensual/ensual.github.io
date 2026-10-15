@@ -8,7 +8,7 @@ Network Data Analysis & Visualization — hands-on materials for the teacher tra
 
 - [ca_grqc_dirty.csv](https://github.hshin.kr/rne2026/ca_grqc_dirty.csv) — Practice dataset (ca-GrQc, 15,184 rows)
 - [data_analysis.ipynb](https://github.hshin.kr/rne2026/data_analysis.ipynb) <a href="https://colab.research.google.com/github/ensual/ensual.github.io/blob/master/rne2026/data_analysis.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="vertical-align:middle"/></a> — Colab notebook (fill-in-the-blank)
-- <a href="https://claude.ai" target="_blank">claude.ai</a> - Claude
+- [claude.ai](https://claude.ai) — Claude
 
 ## [Sage Days 116](https://wiki.sagemath.org/days116)
 The following documents are taken from [Computational Mathematics with SageMath](https://www.sagemath.org/sagebook/english.html).
